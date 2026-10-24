@@ -192,7 +192,11 @@ For a production deployment:
 4. Configure backend CORS to allow requests from the deployed frontend domain.
 5. Verify the deployed API endpoints and dashboard before sharing the public URL.
 
-**Live application:** Add the deployed URL here after deployment.
+## Live Demo
+
+- **Frontend:** https://windcast-tau.vercel.app
+- **Backend API:** https://windcast-h3yd.onrender.com
+- **API Documentation:** https://windcast-h3yd.onrender.com/docs
 
 ## Demo Video
 
@@ -214,7 +218,7 @@ AI assistance was used during development for implementation guidance, debugging
 **Rakesh Ravikumar**
 
 - GitHub: https://github.com/Rakesh200416
-- LinkedIn: https://www.linkedin.com/in/r-7ba9a6284/
+- LinkedIn: https://www.linkedin.com/in/rakeshravikumarap/
 
 ---
 
