@@ -1,0 +1,13 @@
+@'
+.venv/
+**/.venv/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+'@ | Set-Content .gitignore
